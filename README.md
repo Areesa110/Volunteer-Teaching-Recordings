@@ -29,12 +29,8 @@ The objective is to share learned knowledge to enhance their problem solving and
 
 ## 4. Mastering Stack Data Structure Through LeetCode Challenge. (Presented Date: 02 Sep 2024)
 - [Stack and Its Operations with Time Complexity Analysis and LeetCode](https://youtu.be/tj-J_hm90eI)
-
-## 5a.DSA Contents
-- **Lecture 1a** [Intro to DSA, Time & Space complexity, Array, String, HashMap, Stack, Queue & Linked List with its Operations as well as Two Pointers Approach & Binary Search](https://docs.google.com/presentation/d/16vyMySf0BIyoBJsl-JeEftga1d0BVQx_d6LtC5JqPAU/edit#slide=id.g2ed7d0cc737_0_326)
-- **Lecture 1b** [Array, Time & Space Complexity, String, Hashmap, Stack, Queue, Linked List & Binary Search Implementation](https://colab.research.google.com/drive/1hDRz3DsYVfmpf37VrUMqSP5VhkzEm5Pq#scrollTo=YxvLBBwOGZ9w)
   
-## 5b. DSA Video Lectures (22 July 2024 - 30 August 2024)
+## 5. DSA Video Lectures (22 July 2024 - 30 August 2024)
 - **Lecture 1**  [Intro to DSA as well as Array with its operations and implementation](https://youtu.be/Kc6DZyEhDYg)
 - **Lecture 2**  [Time and Space Complexity & LeetCode Problem: 1. Two Sum](https://youtu.be/NCfC0hIHI5E)
 - **Lecture 3**  [LeetCOde Problems: 136. Single Number & 1929. Concatenation of Array](https://youtu.be/rcDgS04Q0T0)
