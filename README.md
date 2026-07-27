@@ -3,8 +3,12 @@
 This is repository that contains links of video recording related to GEN AI Training Workshops, leetcode problems & DSA and Tips & Strategies to Tackle IELTS Exam that were presented at iCodeGuru. It also contains Meta Hacker Cup Webinar that was delivered in AU.
 
 The objective is to share learned knowledge to enhance their problem solving and algorithmic skills of underpriviliged students.
-
-## 1. Gen AI Training 
+## 6. Mastering DSA wiht LeetCode Video Lectures (22 July 2026 - 00 August 2026)
+- **Lecture 1**  [Arrays & Strings | LeetCode: 349. Intersection of Two Arrays & 344. Reverse String](https://youtu.be/dJaBg1uEO5A)
+- **Lecture 2**  [Merge Sort with Step-by-Step Visuals | LeetCode: 912. Sort an Array](https://youtu.be/WEd4j9GNy1g)
+- **Lecture 3**  [Quick Sort with Step by Step Visuals | LeetCode: 912. Sort an Array](https://youtu.be/3xfmw5k6EMY)
+  
+## 2. Gen AI Training 
  - **Lecture 1** [Making Your Generative AI Application Real: From identifying your needs to implementation](https://youtu.be/gq68W6G21sg)
  - **Lecture 2** [Gen AI Importance](https://youtu.be/zHGX7F2YhzM)
  - **Lecture 3** [How to Create Blog Post Retrieval QA Application using RAG Approach](https://youtu.be/kPbfSbb2k78)
@@ -19,18 +23,18 @@ The objective is to share learned knowledge to enhance their problem solving and
     - **Lecture 5**  [Text/Code Generation Techniques and Implementation](https://www.youtube.com/watch?v=b91xamfncp8&t=9s)
   -->
    
-## 2. Meta Hacker Cup 2024 | AU X iCodeGuru (Presented Date: 31 August 2024)
+## 3. Meta Hacker Cup 2024 | AU X iCodeGuru (Presented Date: 31 August 2024)
 -  [Watch Recording for Insights and Strategies!](https://www.youtube.com/watch?v=oj2nTXQWzSs)
 
-## 3. Tips & Strategies to tackle IELTS Exam (Presented Date: 25 July 2024)
+## 4. Tips & Strategies to tackle IELTS Exam (Presented Date: 25 July 2024)
 - **Part 1** [Tips & Strategies Explanation](https://www.facebook.com/iCodeguru/videos/1868640686948701/)
 - **Part 2** [QA Session](https://www.facebook.com/iCodeguru/videos/1140205643752798/)
 - **Presented Content** [Tips & Strategies Presentation](https://docs.google.com/presentation/d/1mLC68xwbvVIVsPTclBOznOz7qGNvZK6SyyYSAOzs80I/edit#slide=id.g2ee20c3a480_0_0)
 
-## 4. Mastering Stack Data Structure Through LeetCode Challenge. (Presented Date: 02 Sep 2024)
+## 5. Mastering Stack Data Structure Through LeetCode Challenge. (Presented Date: 02 Sep 2024)
 - [Stack and Its Operations with Time Complexity Analysis and LeetCode](https://youtu.be/tj-J_hm90eI)
   
-## 5. DSA Video Lectures (22 July 2024 - 30 August 2024)
+## 6. DSA Video Lectures (22 July 2024 - 30 August 2024)
 - **Lecture 1**  [Intro to DSA as well as Array with its operations and implementation](https://youtu.be/Kc6DZyEhDYg)
 - **Lecture 2**  [Time and Space Complexity & LeetCode Problem: 1. Two Sum](https://youtu.be/NCfC0hIHI5E)
 - **Lecture 3**  [LeetCOde Problems: 136. Single Number & 1929. Concatenation of Array](https://youtu.be/rcDgS04Q0T0)
