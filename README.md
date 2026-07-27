@@ -2,7 +2,7 @@
 
 This is repository that contains links of video recording related to GEN AI Training Workshops, leetcode problems & DSA and Tips & Strategies to Tackle IELTS Exam that were presented at iCodeGuru. It also contains Meta Hacker Cup Webinar that was delivered in AU.
 
-The objective is to share learned knowledge to enhance their problem solving and algorithmic skills of underpriviliged students.
+The objective is to share learned knowledge to enhance problem solving and algorithmic skills of underpriviliged students.
 ## 6. Mastering DSA wiht LeetCode Video Lectures (22 July 2026 - 00 August 2026)
 - **Lecture 1**  [Arrays & Strings | LeetCode: 349. Intersection of Two Arrays & 344. Reverse String](https://youtu.be/dJaBg1uEO5A)
 - **Lecture 2**  [Merge Sort with Step-by-Step Visuals | LeetCode: 912. Sort an Array](https://youtu.be/WEd4j9GNy1g)
