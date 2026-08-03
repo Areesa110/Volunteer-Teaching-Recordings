@@ -7,7 +7,7 @@ The objective is to share learned knowledge to enhance problem solving and algor
 - **Lecture 1**  [Arrays & Strings | LeetCode: 349. Intersection of Two Arrays & 344. Reverse String | July 22, 2026](https://youtu.be/kZBAmsnWq_A)
 - **Lecture 2**  [Merge Sort with Step-by-Step Visuals | LeetCode: 912. Sort an Array | July 24, 2026](https://youtu.be/WEd4j9GNy1g)
 - **Lecture 3**  [Quick Sort with Step by Step Visuals | LeetCode: 912. Sort an Array | July 27, 2026](https://youtu.be/KYzE4FEQ8iI)
-- **Lecture 4**  [Recursion with Step by Step Guide | LeetCode: 509. Fibonacci Number | July 29 2026](https://youtu.be/m1XvAMBWcA4)
+- **Lecture 4**  [Recursion with Step by Step Guide | LeetCode: 509. Fibonacci Number | July 29, 2026](https://youtu.be/SUGRxSurm5o)
   
 ## 2. Gen AI Training 
  - **Lecture 1** [Making Your Generative AI Application Real: From identifying your needs to implementation](https://youtu.be/gq68W6G21sg)
