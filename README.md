@@ -5,8 +5,8 @@ This is repository that contains links of video recording related to GEN AI Trai
 The objective is to share learned knowledge to enhance problem solving and algorithmic skills of underpriviliged students.
 ## 6. Mastering DSA wiht LeetCode Video Lectures (22 July 2026 - 00 August 2026)
 - **Lecture 1**  [Arrays & Strings | LeetCode: 349. Intersection of Two Arrays & 344. Reverse String | July 22, 2026](https://youtu.be/kZBAmsnWq_A)
-- **Lecture 2**  [Merge Sort with Step-by-Step Visuals | LeetCode: 912. Sort an Array | July 24 2026](https://youtu.be/WEd4j9GNy1g)
-- **Lecture 3**  [Quick Sort with Step by Step Visuals | LeetCode: 912. Sort an Array | July 27 2026](https://youtu.be/3xfmw5k6EMY)
+- **Lecture 2**  [Merge Sort with Step-by-Step Visuals | LeetCode: 912. Sort an Array | July 24, 2026](https://youtu.be/WEd4j9GNy1g)
+- **Lecture 3**  [Quick Sort with Step by Step Visuals | LeetCode: 912. Sort an Array | July 27, 2026](https://youtu.be/KYzE4FEQ8iI)
 - **Lecture 4**  [Recursion with Step by Step Guide | LeetCode: 509. Fibonacci Number | July 29 2026](https://youtu.be/m1XvAMBWcA4)
   
 ## 2. Gen AI Training 
