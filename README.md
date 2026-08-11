@@ -3,7 +3,7 @@
 This is repository that contains links of video recording related to GEN AI Training Workshops, leetcode problems & DSA and Tips & Strategies to Tackle IELTS Exam that were presented at iCodeGuru. It also contains Meta Hacker Cup Webinar that was delivered in AU.
 
 The objective is to share learned knowledge to enhance problem solving and algorithmic skills of underpriviliged students.
-## 6. Mastering DSA wiht LeetCode Video Lectures (22 July 2026 - 00 August 2026)
+## 6. Mastering DSA wiht LeetCode Video Lectures (22 July 2026 - 14 August 2026)
 - **Lecture 1**  [Arrays & Strings | LeetCode: 349. Intersection of Two Arrays & 344. Reverse String | July 22, 2026](https://youtu.be/kZBAmsnWq_A)
 - **Lecture 2**  [Merge Sort with Step-by-Step Visuals | LeetCode: 912. Sort an Array | July 24, 2026](https://youtu.be/WEd4j9GNy1g)
 - **Lecture 3**  [Quick Sort with Step by Step Visuals | LeetCode: 912. Sort an Array | July 27, 2026](https://youtu.be/KYzE4FEQ8iI)
@@ -12,7 +12,7 @@ The objective is to share learned knowledge to enhance problem solving and algor
 - **Lecture 6**  [Tree Data Structure (Part 2) | LeetCode: 100. Same Tree, 700. BST & 144. Preorder | August 04, 2026](https://youtu.be/SXiVKZBvR1w)
 - **Lecture 7**  [Heap Tree & Its Types | LeetCode: 1046. Last Stone Weight | August 06, 2026](https://youtu.be/mOyHCjt9i-s)
 - **Lecture 8**  [Graph Data Structure (Part 1) | Types, Representations, Traversals, Problems & Complexity | August 10, 2026](https://youtu.be/wqm-MTnMUng)
-
+- **Lecture 9**  [Graph Data Structure (Part 2) | LeetCode: 1791. Find Center of Star Graph & 1971. Find if Path Exists in Graph | August 11, 2026](https://youtu.be/exMFM4iy7ZI)
   
 ## 2. Gen AI Training 
  - **Lecture 1** [Making Your Generative AI Application Real: From identifying your needs to implementation](https://youtu.be/gq68W6G21sg)
