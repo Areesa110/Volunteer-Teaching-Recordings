@@ -11,6 +11,8 @@ The objective is to share learned knowledge to enhance problem solving and algor
 - **Lecture 5**  [Tree Data Structure (Part 1) | Types, Traversals & Complexity | August 03, 2026](https://youtu.be/8FJfiV4KWmc)
 - **Lecture 6**  [Tree Data Structure (Part 2) | LeetCode: 100. Same Tree, 700. BST & 144. Preorder | August 04, 2026](https://youtu.be/SXiVKZBvR1w)
 - **Lecture 7**  [Heap Tree & Its Types | LeetCode: 1046. Last Stone Weight | August 06, 2026](https://youtu.be/mOyHCjt9i-s)
+- **Lecture 8**  [Graph Data Structure (Part 1) | Types, Representations, Traversals, Problems & Complexity | August 10, 2026](https://youtu.be/wqm-MTnMUng)
+
   
 ## 2. Gen AI Training 
  - **Lecture 1** [Making Your Generative AI Application Real: From identifying your needs to implementation](https://youtu.be/gq68W6G21sg)
